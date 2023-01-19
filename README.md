@@ -26,4 +26,18 @@ Profesor: Ing. Alulema
 
 3. Explicación 
 
+                                    COMPONENTES 
+
+- 1 Tabla Triplex
+
+- 2 interruptores conmutables
+
+- 3 Plafón
+
+- 1 Foco
+
+- 3 metros de cable #12
+
+- 1 enchufe 
+
 
