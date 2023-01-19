@@ -40,4 +40,25 @@ Profesor: Ing. Alulema
 
 - 1 enchufe 
 
+                                    Diagrama dibujado 
+
+
+                                    Diagrama tinkercad
+
+                                    
+                                    Circuito Físico
+
+
+4. Procedimiento 
+
+    - Utilizamos el cable para conectar de extremo a extremo L1 y L2, hay que conectar en paralelo.
+
+    - Se pasa cable a cada lado y después le conectamos en el punto comun de los dos interruptores.
+
+    - Sacamos un cable del interruptor y lo conectamos al punto común del primer interruptor.
+
+    - Sacamos un cable desde el punto comun del interruptor 2, este cable estara conectado al neutro del plafón.
+
+    - Por último sacamos el cable del plafón hacia el interruptor y ponemos el foco en el plafón y comprobamos el funcionamiento.
+
 
