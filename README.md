@@ -61,4 +61,10 @@ Profesor: Ing. Alulema
 
     - Por último sacamos el cable del plafón hacia el interruptor y ponemos el foco en el plafón y comprobamos el funcionamiento.
 
+5. Video
 
+6. Conclusiones 
+    
+    Podemos concluir que el foco se logra encender con cualquier interruptor, asi cumplidndo la función del conmutador, esto se puede dar gracias a las conexiones de puentes que existen en el circuito.
+
+    Se puede observar que en el proyecto realizado ya hacemos conexiones electricas o mejor dicho instalaciones, asi ya podemos hacer alguna instalación en la casa y así poder en pràctica nuestros conocimientos.
