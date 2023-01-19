@@ -23,3 +23,4 @@ Profesor: Ing. Alulema
     - Construir el circuito físico utilizando todos los componentes indicados y a su vez, verificando la funcionalidad del mismo.
 
 2. Marco Teorico 
+
