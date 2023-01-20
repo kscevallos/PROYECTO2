@@ -42,12 +42,26 @@ Profesor: Ing. Alulema
 
                                     Diagrama dibujado 
 
+![image](https://user-images.githubusercontent.com/116834366/213602570-d8cb12a1-af3b-4d4c-9f80-4868aa5e1c36.png)
 
                                     Diagrama tinkercad
+
+![image](https://user-images.githubusercontent.com/116834366/213602601-4e1a60fb-dfd5-45b6-b467-6b88b0e20ddf.png)
+
+![image](https://user-images.githubusercontent.com/116834366/213602623-34c3b366-0a12-41b6-9a6b-28106473b49f.png)
 
                                     
                                     Circuito Físico
 
+![image](https://user-images.githubusercontent.com/116834366/213602646-6e3225b8-b52a-4921-8cdc-fad0be69a320.png)
+
+![image](https://user-images.githubusercontent.com/116834366/213602703-b92e7dd0-1f14-4537-bdc2-691ebfbabc1f.png)
+
+![image](https://user-images.githubusercontent.com/116834366/213602725-8d86bc9a-35a1-4c96-b5e7-9990bf930e0f.png)
+
+![image](https://user-images.githubusercontent.com/116834366/213602742-b8fe1712-03ed-42e1-8aa6-192b37459493.png)
+
+![image](https://user-images.githubusercontent.com/116834366/213602755-607f6afc-5047-4408-aa42-75b040d83684.png)
 
 4. Procedimiento 
 
